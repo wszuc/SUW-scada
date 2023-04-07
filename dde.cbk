@@ -9,6 +9,25 @@ Begin DDE Source Definition.
     Always Advise:		0
     SuiteLink:			3
     Begin DDE Points
+        Such_pom_sie;0038:  M183
+        Such_pom_gle;0037:  M181
+        Such_pom_pop;0036:  M182
+        Prz_zal_rec_plu_fil;0035:  M152
+        Plu_fil_rec_aut;0034:  M151
+        Pra_nor_Plu_fil;0033:  M150
+        Prz_uzu_zbi_chl;0032:  M114
+        Zal_pom_pop;0031:  M112
+        Zal_chl;0030:  M113
+        Zal_pom_plu;002F:  M111
+        Otw_zaw_dmu;002E:  M110
+        Otw_zaw_aer;002D:  M109
+        Zal_pom_sie_4;002C:  M107
+        Zal_dmu;002B:  M108
+        Zal_pom_sie_3;002A:  M106
+        Zal_pom_sie_2;0029:  M105
+        Zal_pom_sie_1;0028:  M104
+        Zal_spr_2;0027:  M103
+        Zal_spr_1;0026:  M102
         Zal_pom_gle;0025:  M101
     End DDE Points
 End DDE Source Definition.
