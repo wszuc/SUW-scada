@@ -31,6 +31,10 @@ Begin DDE Source Definition.
     Always Advise:		0
     SuiteLink:			3
     Begin DDE Points
+        cis_zal_pom_pop;0058:  R143
+        cis_wod_zbi_pop;0055:  R142
+        cis_zal_spr;0053:  R122
+        cza_opu_spr;0052:  R125
         pom_cis_zbi_wyr;004F:  R125
         zbi_wyr_wyl_pom;004E:  R125
         zbi_wyr_zal_pom_1;004A:  R141
